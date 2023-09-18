@@ -1,2 +1,1 @@
-# get_programming_with_go
-Based on the book from manning publications
+# Code exercises based on Get Programming with Go https://www.manning.com/books/get-programming-with-go
